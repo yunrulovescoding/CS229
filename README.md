@@ -4,7 +4,7 @@
 - CS 229 Project Page: http://cs229.stanford.edu/projects.html
 - Team Weekly Plan & Notes: https://docs.google.com/document/d/16hE0LPxSwJXrKSRq2EJtCztQlUvEtnO3wewpEbjSrek/edit
 - Kaggle competition: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/overview
-- Jupyter notebook (If host ready): [(http://34.83.90.25:8888](http://34.83.90.25:8888)
+- Jupyter notebook (If host ready): [http://34.83.90.25:8888](http://34.83.90.25:8888)
 
 
 ## Host Usage
